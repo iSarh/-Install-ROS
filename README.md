@@ -1,3 +1,5 @@
+This guide is derived from the official Noetic setup page, which can be found here: http://wiki.ros.org/noetic/Installation/Ubuntu
+
 # install ROS Noetic on ubuntu
 
 Before starting to install ROS, you need to :
